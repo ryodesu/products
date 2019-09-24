@@ -1,0 +1,13 @@
+﻿  Ga.cpp
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(197,12): warning C4101:  'k': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(197,18): warning C4101:  'y': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(198,9): warning C4101:  'oneDayPop': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(197,15): warning C4101:  'x': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(197,21): warning C4101:  'neighbour': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(291,46): warning C4101:  'to': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(291,55): warning C4101:  'toh': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(291,50): warning C4101:  'tov': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(291,32): warning C4101:  'fromv': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(291,39): warning C4101:  'fromh': ローカル変数は 1 度も使われていません。
+C:\Users\凌\Desktop\SelectPolicyMeans\Ga.cpp(716,9): warning C4101:  'r1': ローカル変数は 1 度も使われていません。
+  SelectPolicyMeans.vcxproj -> C:\Users\凌\Desktop\SelectPolicyMeans\Debug\SelectPolicyMeans.exe
